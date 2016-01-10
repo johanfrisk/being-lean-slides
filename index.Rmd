@@ -18,13 +18,15 @@ mode        : selfcontained # {standalone, draft}
 knit        : slidify::knit2slides
 ---
 
-## Read-And-Delete
+# Being a Lean Person
+### 5 techniques to try out today!
 
-1. Edit YAML front matter
-2. Write using R Markdown
-3. Use an empty line followed by three dashes to separate slides!
+<br>
+<br>
+<br>
+<small>written by Johan Frisk&copy; for [LeanBee](http://leanbee.se)</small>
 
---- .class #id 
+---
 
 ## Slide 2
 
